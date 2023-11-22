@@ -1,0 +1,15 @@
+.table-container {
+    background-color: rgb(165, 87, 42);
+    height: 20rem;
+    width: 20rem;
+    border-radius: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.table-name {
+    position: relative;
+}

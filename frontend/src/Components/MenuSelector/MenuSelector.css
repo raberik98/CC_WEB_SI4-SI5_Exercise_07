@@ -1,0 +1,8 @@
+.menu-selector {
+    position: absolute;
+    right: -50px;
+    top: 50px;
+    z-index: 2;
+    height: fit-content;
+    min-height: 100px;
+}
